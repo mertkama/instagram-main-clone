@@ -1,6 +1,6 @@
 # instagramclone
 
-Live Demo: https://insta-clone-vue.netlify.app/
+Live Demo: https://kind-leakey-872ef7.netlify.app/
 
 
 ## Project setup
